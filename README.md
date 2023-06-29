@@ -11,4 +11,4 @@ Het idee van plantswap is dat een gebruiker een plantenstekje kan ruilen zodat e
 In de Buurtcampus Oost bij de OBA staat een 'swapkast'. een kast met verschillende stekjes van planten, die gebruikers kunnen pakken, en daarvoor weer eentje in kan ruilen. Nu kwam onze opdrachtgever met het idee hier een (web)applicatie aan te koppelen.
 
 ### Plantswap versie 1
-Voor dat wij zijn begonnen aan deze opdracht 
+Voor dat wij zijn begonnen aan deze opdracht hebben studenten van de opleiding front end development al een versie gemaakt waar wij op door zouden kunnen gaan.
